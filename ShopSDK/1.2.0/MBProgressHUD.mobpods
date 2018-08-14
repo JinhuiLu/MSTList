@@ -1,0 +1,27 @@
+{
+    "id":"10500",
+    "install":{
+        "build":{
+            "name":"MBProgressHUD",
+            "ver":"1.1.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "MBProgressHUD.h",
+            "MBProgressHUD.m"
+        ],
+        "libs":[
+            "CoreGraphics.framework",
+            "QuartzCore.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

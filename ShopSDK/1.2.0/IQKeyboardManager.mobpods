@@ -1,0 +1,29 @@
+{
+    "id":"1010100",
+    "install":{
+        "build":{
+            "name":"IQKeyboardManager",
+            "ver":"6.0.6"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "IQKeyboardManager/**/*.{h,m}",
+            "IQKeyboardManager/Resources/IQKeyboardManager.bundle"
+        ],
+        "libs":[
+            "Foundation.framework",
+            "UIKit.framework",
+            "CoreGraphics.framework",
+            "QuartzCore.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

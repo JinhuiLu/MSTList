@@ -1,0 +1,32 @@
+{
+    "id":"11034",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Support/PlatformSDK/DingTalkSDK/DTShareKit.framework",
+            "Support/PlatformConnector/DingTalkConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "dingtalk",
+                "dingtalk-open"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

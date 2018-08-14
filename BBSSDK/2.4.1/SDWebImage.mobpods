@@ -1,0 +1,25 @@
+{
+    "id":"10200",
+    "install":{
+        "build":{
+            "name":"SDWebImage",
+            "ver":"4.4.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDWebImage/*.{h,m}"
+        ],
+        "libs":[
+            "ImageIO.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

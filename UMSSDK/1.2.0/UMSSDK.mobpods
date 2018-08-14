@@ -1,0 +1,34 @@
+{
+    "id":"10012",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_umssdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "UMSSDK.framework"
+        ],
+        "libs":[
+            "CoreLocation.framework",
+            "libicucore.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "JiMu",
+                "MOBFoundation",
+                "SMSSDK",
+                "PaySDK",
+                "ShareSDK"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

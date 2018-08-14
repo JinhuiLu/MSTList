@@ -1,0 +1,29 @@
+{
+    "id":"10005",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_analysdk",
+            "ver":"1.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "AnalySDK.framework"
+        ],
+        "libs":[
+
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id":"10013",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_cmssdk",
+            "ver":"1.1.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "CMSSDK.framework"
+        ],
+        "libs":[
+        
+        ],
+        "dependency":{
+            "names":[
+                "JiMu",
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

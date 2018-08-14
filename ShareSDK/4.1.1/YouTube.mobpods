@@ -1,0 +1,30 @@
+{
+    "id":"11035",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Support/PlatformConnector/YouTubeConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "youtube"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

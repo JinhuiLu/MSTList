@@ -1,0 +1,41 @@
+{
+    "id":"100100",
+    "install":{
+        "build":{
+            "name":"ShopSDKUI",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "ShopSDKUI.framework",
+            "ShopSDKUI.xcassets",
+            "ShopSDKUIXib"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "names":[
+                "JiMu",
+                "UMSSDK",
+                "SMSSDK",
+                "ShareSDK",
+                "PaySDK",
+                "MBProgressHUD",
+                "MJRefresh",
+                "SDCycleScrollView",
+                "SDWebImage",
+                "IQKeyboardManager",
+                "TTTAttributedLabel",
+                "WMPageController",
+                "TZImagePickerController"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

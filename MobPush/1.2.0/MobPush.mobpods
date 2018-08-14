@@ -1,0 +1,29 @@
+{
+    "id":"10004",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_pushsdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "MobPush.framework"
+        ],
+        "libs":[
+            "CoreLocation.framework"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

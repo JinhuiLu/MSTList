@@ -1,0 +1,30 @@
+{
+    "id":"10011",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_imsdk",
+            "ver":"1.0.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "MobIM.framework",
+            "MobIM.bundle"
+        ],
+        "libs":[
+            "libstdc++.6.0.9.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id":"100120",
+    "install":{
+        "build":{
+            "name":"UMSSDKUI",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "UMSSDKUI.framework",
+            "UMSSDKUI.bundle"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "names":[
+                "MJRefresh"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id":"1013000",
+    "install":{
+        "build":{
+            "name":"WMPageController",
+            "ver":"2.5.2"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "WMPageController/**/*.{h,m}"
+        ],
+        "libs":[
+            "CoreGraphics.framework",
+            "Foundation.framework",
+            "UIKit.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

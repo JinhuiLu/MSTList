@@ -1,0 +1,36 @@
+{
+    "id":"10006",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_recsdk",
+            "ver":"2.0.3"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "ShareREC.framework",
+            "ShareREC.bundle",
+            "ShareRECCloud.bundle",
+            "ShareRECCloud.framework",
+            "ShareRECEdit.framework",
+            "ShareRECSocial.bundle",
+            "ShareRECSocial.framework"
+        ],
+        "libs":[
+            "libicucore.tbd",
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

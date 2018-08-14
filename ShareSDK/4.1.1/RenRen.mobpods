@@ -1,0 +1,36 @@
+{
+    "id":"11012",
+    "install":{
+        "build":{
+            "bitcode" : "NO",
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Support/PlatformSDK/RenRenSDK/RennSDK.framework",
+            "Support/PlatformConnector/RenrenConnector.framework",
+            "Support/PlatformSDK/RenRenSDK/RennSDK.bundle"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "renrenapi",
+                "renrenios",
+                "renreniphone",
+                "renren"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

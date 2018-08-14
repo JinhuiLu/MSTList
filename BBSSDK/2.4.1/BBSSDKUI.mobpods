@@ -1,0 +1,43 @@
+{
+    "id":"100080",
+    "install":{
+        "build":{
+            "name":"BBSSDKUI",
+            "ver":"2.4.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "BBSSDKUI/BBSSDKUI.framework",
+            "BBSSDKUI/BBSSDKUI.bundle"
+        ],
+        "libs":[
+            "CoreData.framework",
+            "JavaScriptCore.framework",
+            "libicucore.tbd",
+            "libz.tbd",
+            "libstdc++.6.0.9.tbd",
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MobLink",
+                "ShareSDK",
+                "MJRefresh",
+                "SDWebImage",
+                "UITableView+FDTemplateLayoutCell",
+                "Masonry",
+                "MBProgressHUD",
+                "SVProgressHUD",
+                "YYImage",
+                "AMap"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

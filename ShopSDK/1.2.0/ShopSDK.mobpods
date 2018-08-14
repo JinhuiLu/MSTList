@@ -1,0 +1,29 @@
+{
+    "id":"10010",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_shopsdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "ShopSDK.framework"
+        ],
+        "libs":[
+            "libicucore.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id":"1012000",
+    "install":{
+        "build":{
+            "name":"TZImagePickerController",
+            "ver":"2.1.8"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "TZImagePickerController/TZImagePickerController/*.{h,m}",
+            "TZImagePickerController/TZImagePickerController/TZImagePickerController.bundle"
+        ],
+        "libs":[
+            "Photos.framework",
+            "AssetsLibrary.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

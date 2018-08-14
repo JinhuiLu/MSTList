@@ -1,0 +1,24 @@
+{
+    "id":"10900",
+    "install":{
+        "build":{
+            "name":"SDCycleScrollView",
+            "ver":"1.7.4"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDCycleScrollView/Lib/SDCycleScrollView/**/*.{h,m}"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

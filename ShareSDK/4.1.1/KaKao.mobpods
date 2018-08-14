@@ -1,0 +1,34 @@
+{
+    "id":"11031",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework",
+            "Support/PlatformConnector/KakaoConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "kakaolink",
+                "storylink",
+                "kakaokompassauth",
+                "storykompassauth"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

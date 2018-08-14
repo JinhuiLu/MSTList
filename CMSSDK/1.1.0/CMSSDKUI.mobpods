@@ -1,0 +1,30 @@
+{
+    "id":"100130",
+    "install":{
+        "build":{
+            "name":"CMSSDKUI",
+            "ver":"1.1.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "CMSSDKUI.framework",
+            "CMSSDKUI.bundle"
+        ],
+        "libs":[
+        
+        ],
+        "dependency":{
+            "names":[
+                "Masonry",
+                "MJRefresh"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

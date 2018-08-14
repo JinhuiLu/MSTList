@@ -1,0 +1,31 @@
+{
+    "id":"10003",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_linksdk",
+            "ver":"2.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "MobLink.framework"
+        ],
+        "libs":[
+            "libz.1.2.5.tbd",
+            "libstdc++.tbd",
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}
