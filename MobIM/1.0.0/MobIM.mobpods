@@ -12,8 +12,8 @@
     },
     "config":{
         "add":[
-            "MobIM.framework",
-            "MobIM.bundle"
+            "SDK/MobIM/MobIM.framework",
+            "SDK/MobIM/MobIM.bundle"
         ],
         "libs":[
             "libstdc++.6.0.9.tbd"
