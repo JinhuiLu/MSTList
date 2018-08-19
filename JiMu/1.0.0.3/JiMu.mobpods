@@ -1,0 +1,31 @@
+{
+    "id":"10014",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"JiMu",
+            "ver":"1.0.0.3"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "JiMu.framework",
+            "JiMu.bundle"
+        ],
+        "libs":[
+            "libz.1.2.5.tbd",
+            "libstdc++.tbd",
+            "libicucore.tbd"
+        ],
+        "dependency":{
+            "names":[
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}
