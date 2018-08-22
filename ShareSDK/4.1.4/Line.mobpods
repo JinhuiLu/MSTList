@@ -1,0 +1,33 @@
+{
+    "id":"11029",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/LineSDK/LineSDK.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/LineConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "line",
+                "lineauth",
+                "line3rdp.$(PRODUCT_BUNDLE_IDENTIFIER)"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id":"11023",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "pinit",
+                "pinterestsdk.v1"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

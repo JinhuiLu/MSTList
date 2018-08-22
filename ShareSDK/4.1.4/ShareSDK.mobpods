@@ -1,10 +1,9 @@
 {
-    "id":"10009",
+    "id":"10001",
     "install":{
         "build":{
-            "type":"framework",
-            "name":"mobAPI",
-            "ver":"2.0.1"
+            "name":"mob_sharesdk",
+            "ver":"4.1.4"
         },
         "copy_files":[
 
@@ -12,11 +11,11 @@
     },
     "config":{
         "add":[
-            "MobProducts/SDK/MobAPI/MobAPI.framework",
-            "MobProducts/Sample/MobAPIDemo/Sample/Sources/MobAPI.bundle"
+            "SDK/ShareSDK/ShareSDK.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDKConnector.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDK.bundle"
         ],
         "libs":[
-
         ],
         "dependency":{
             "names":[

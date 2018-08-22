@@ -1,10 +1,10 @@
 {
-    "id":"10009",
+    "id":"10004",
     "install":{
         "build":{
             "type":"framework",
-            "name":"mobAPI",
-            "ver":"2.0.1"
+            "name":"mob_pushsdk",
+            "ver":"1.4.0"
         },
         "copy_files":[
 
@@ -12,8 +12,7 @@
     },
     "config":{
         "add":[
-            "MobProducts/SDK/MobAPI/MobAPI.framework",
-            "MobProducts/Sample/MobAPIDemo/Sample/Sources/MobAPI.bundle"
+            "SDK/MobPush/MobPush.framework"
         ],
         "libs":[
 
