@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "MBProgressHUD.h",
-            "MBProgressHUD.m"
+            "/*.h",
+            "/*.m"
         ],
         "libs":[
             "CoreGraphics.framework",

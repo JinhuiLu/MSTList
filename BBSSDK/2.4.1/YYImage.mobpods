@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "YYImage/*.{h,m}",
-            "YYImage/*.{h}"
+            "YYImage/*.h",
+            "YYImage/*.m"
         ],
         "libs":[
             "libz.tbd",
