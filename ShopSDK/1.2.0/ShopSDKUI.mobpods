@@ -13,7 +13,7 @@
         "add":[
             "SDK/ShopSDK/ShopSDKUI.framework",
             "SDK/ShopSDK/ShopSDKUI.xcassets",
-            "SDK/ShopSDK/ShopSDKUIXib"
+            "SDK/ShopSDK/ShopSDKUIXib/*.xib"
         ],
         "libs":[
         ],
