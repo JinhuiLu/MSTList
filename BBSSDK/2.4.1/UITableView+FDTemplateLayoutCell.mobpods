@@ -12,7 +12,7 @@
     "config":{
         "add":[
             "Classes/*h",
-            "Classes/*m",
+            "Classes/*m"
         ],
         "libs":[
         ],

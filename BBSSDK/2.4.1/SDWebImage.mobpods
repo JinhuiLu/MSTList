@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "SDWebImage/*.h"
+            "SDWebImage/*.h",
             "SDWebImage/*.m"
         ],
         "libs":[
