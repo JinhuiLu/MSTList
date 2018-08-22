@@ -12,10 +12,10 @@
     },
     "config":{
         "add":[
-            "Support/PlatformSDK/YiXinSDK/*.a",
-            "Support/PlatformSDK/YiXinSDK/*.{h,m}",
-            "Support/PlatformConnector/YiXinConnector.framework",
-            "Support/PlatformSDK/YiXinSDK/*.h"
+            "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.a",
+            "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformConnector/YiXinConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.h"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

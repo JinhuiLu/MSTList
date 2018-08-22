@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "ShopSDK.framework"
+            "SDK/ShopSDK/ShopSDK.framework"
         ],
         "libs":[
             "libicucore.tbd"

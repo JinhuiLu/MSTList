@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "Support/PlatformSDK/MPShareSDK/MPShareSDK.framework",
-            "Support/PlatformConnector/MeiPaiConnector.framework"
+            "SDK/ShareSDK/Support/PlatformSDK/MPShareSDK/MPShareSDK.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/MeiPaiConnector.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "UMSSDKUI.framework",
-            "UMSSDKUI.bundle"
+            "SDK/UMSSDK/UMSSDKUI.framework",
+            "SDK/UMSSDK/UMSSDKUI.bundle"
         ],
         "libs":[
         ],

@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/SMSConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/SMSConnector.framework"
         ],
  
         "libs":[

@@ -11,9 +11,9 @@
     },
     "config":{
         "add":[
-            "ShareSDK.framework",
-            "Support/Required/ShareSDKConnector.framework",
-            "Support/Required/ShareSDK.bundle"
+            "SDK/ShareSDK/ShareSDK.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDKConnector.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDK.bundle"
         ],
         "libs":[
         ],

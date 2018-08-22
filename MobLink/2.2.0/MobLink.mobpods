@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "MobLink.framework"
+            "SDK/MobLink/MobLink.framework"
         ],
         "libs":[
             "libz.1.2.5.tbd",

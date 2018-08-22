@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "CMSSDKUI.framework",
-            "CMSSDKUI.bundle"
+            "SDK/CMSSDK/CMSSDKUI.framework",
+            "SDK/CMSSDK/CMSSDKUI.bundle"
         ],
         "libs":[
         

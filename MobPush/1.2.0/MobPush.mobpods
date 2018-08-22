@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "MobPush.framework"
+            "SDK/MobPush/MobPush.framework"
         ],
         "libs":[
             "CoreLocation.framework"

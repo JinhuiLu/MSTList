@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/TwitterConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/TwitterConnector.framework"
         ],
         "libs":[
         ],

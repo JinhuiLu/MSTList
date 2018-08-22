@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "CMSSDK.framework"
+            "SDK/CMSSDK/CMSSDK.framework"
         ],
         "libs":[
         

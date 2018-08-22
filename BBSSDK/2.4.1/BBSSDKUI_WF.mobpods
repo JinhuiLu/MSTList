@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "BBSSDKUI_WF/BBSSDKUI.framework",
-            "BBSSDKUI_WF/BBSSDKUI.bundle"
+            "SDK/BBSSDK/BBSSDKUI_WF/BBSSDKUI.framework",
+            "SDK/BBSSDK/BBSSDKUI_WF/BBSSDKUI.bundle"
         ],
         "libs":[
             "CoreData.framework",

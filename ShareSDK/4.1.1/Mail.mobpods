@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/MailConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/MailConnector.framework"
         ],
         "libs":[
         ],

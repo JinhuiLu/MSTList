@@ -11,10 +11,10 @@
     },
     "config":{
         "add":[
-            "Support/PlatformSDK/APSocialSDK/*.a",
-            "Support/PlatformSDK/APSocialSDK/*.{h,m}",
-            "Support/PlatformConnector/AliPayConnector.framework",
-            "Support/PlatformSDK/APSocialSDK/*.h"
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.a",
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformConnector/AliPayConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.h"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

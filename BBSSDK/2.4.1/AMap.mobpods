@@ -11,9 +11,9 @@
     },
     "config":{
         "add":[
-            "Common/3rdPart/AMap/AMapFoundationKit.framework",
-            "Common/3rdPart/AMap/AMapSearchKit.framework",
-            "Common/3rdPart/AMap/MAMapKit.framework"
+            "SDK/BBSSDK/Common/3rdPart/AMap/AMapFoundationKit.framework",
+            "SDK/BBSSDK/Common/3rdPart/AMap/AMapSearchKit.framework",
+            "SDK/BBSSDK/Common/3rdPart/AMap/MAMapKit.framework"
         ],
         "libs":[
             "GLKit.framework",

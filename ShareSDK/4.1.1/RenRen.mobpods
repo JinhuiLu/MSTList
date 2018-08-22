@@ -12,9 +12,9 @@
     },
     "config":{
         "add":[
-            "Support/PlatformSDK/RenRenSDK/RennSDK.framework",
-            "Support/PlatformConnector/RenrenConnector.framework",
-            "Support/PlatformSDK/RenRenSDK/RennSDK.bundle"
+            "SDK/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/RenrenConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.bundle"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

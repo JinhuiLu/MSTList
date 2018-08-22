@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "UMSSDK.framework"
+            "SDK/UMSSDK/UMSSDK.framework"
         ],
         "libs":[
             "CoreLocation.framework",

@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/InstapaperConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/InstapaperConnector.framework"
         ],
         "libs":[
         ],

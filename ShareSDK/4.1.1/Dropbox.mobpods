@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/DropboxConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/DropboxConnector.framework"
         ],
         "libs":[
         ],

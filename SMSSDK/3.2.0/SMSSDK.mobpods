@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "SMS_SDK.framework"
+            "SDK/SMSSDK/SMS_SDK.framework"
         ],
         "libs":[
             "libicucore.tbd",

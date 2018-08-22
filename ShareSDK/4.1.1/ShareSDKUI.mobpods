@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "Support/Optional/ShareSDKUI.framework",
-            "Support/Optional/ShareSDKUI.bundle"
+            "SDK/ShareSDK/Support/Optional/ShareSDKUI.framework",
+            "SDK/ShareSDK/Support/Optional/ShareSDKUI.bundle"
         ],
         "libs":[
         ],

@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "MobAPI.framework"
+            "SDK/MobAPI/MobAPI.framework"
         ],
         "libs":[
 

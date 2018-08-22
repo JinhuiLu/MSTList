@@ -11,9 +11,9 @@
     },
     "config":{
         "add":[
-            "ShopSDKUI.framework",
-            "ShopSDKUI.xcassets",
-            "ShopSDKUIXib"
+            "SDK/ShopSDK/ShopSDKUI.framework",
+            "SDK/ShopSDK/ShopSDKUI.xcassets",
+            "SDK/ShopSDK/ShopSDKUIXib"
         ],
         "libs":[
         ],

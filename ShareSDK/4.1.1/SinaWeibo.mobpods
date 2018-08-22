@@ -12,11 +12,11 @@
     },
     "config":{
         "add":[
-            "Support/PlatformSDK/SinaWeiboSDK/*.a",
-            "Support/PlatformSDK/SinaWeiboSDK/WeiboSDK.bundle",
-            "Support/PlatformConnector/SinaWeiboConnector.framework",
-            "Support/PlatformSDK/SinaWeiboSDK/*.{h,m}",
-            "Support/PlatformSDK/SinaWeiboSDK/*.h"
+            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.a",
+            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/WeiboSDK.bundle",
+            "SDK/ShareSDK/Support/PlatformConnector/SinaWeiboConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.h"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

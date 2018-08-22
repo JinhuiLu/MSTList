@@ -12,7 +12,7 @@
     },
     "config":{
         "add":[
-            "AnalySDK.framework"
+            "SDK/AnalySDK/AnalySDK.framework"
         ],
         "libs":[
 

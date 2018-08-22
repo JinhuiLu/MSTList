@@ -11,8 +11,8 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/QQConnector.framework",
-            "Support/PlatformSDK/QQSDK/TencentOpenAPI.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/QQConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

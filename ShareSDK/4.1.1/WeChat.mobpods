@@ -12,10 +12,10 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/WeChatConnector.framework",
-            "Support/PlatformSDK/WeChatSDK/*.{h,m}",
-            "Support/PlatformSDK/WeChatSDK/*.h",
-            "Support/PlatformSDK/WeChatSDK/*.a"
+            "SDK/ShareSDK/Support/PlatformConnector/WeChatConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDK/*.h",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDK/*.a"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

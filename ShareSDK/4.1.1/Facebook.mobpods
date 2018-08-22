@@ -11,7 +11,7 @@
     },
     "config":{
         "add":[
-            "Support/PlatformConnector/FacebookConnector.framework"
+            "SDK/ShareSDK/Support/PlatformConnector/FacebookConnector.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

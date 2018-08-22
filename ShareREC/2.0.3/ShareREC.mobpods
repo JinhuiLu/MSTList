@@ -12,13 +12,13 @@
     },
     "config":{
         "add":[
-            "ShareREC.framework",
-            "ShareREC.bundle",
-            "ShareRECCloud.bundle",
-            "ShareRECCloud.framework",
-            "ShareRECEdit.framework",
-            "ShareRECSocial.bundle",
-            "ShareRECSocial.framework"
+            "SDK/ShareREC/ShareREC.framework",
+            "SDK/ShareREC/ShareREC.bundle",
+            "SDK/ShareREC/ShareRECCloud.bundle",
+            "SDK/ShareREC/ShareRECCloud.framework",
+            "SDK/ShareREC/ShareRECEdit.framework",
+            "SDK/ShareREC/ShareRECSocial.bundle",
+            "SDK/ShareREC/ShareRECSocial.framework"
         ],
         "libs":[
             "libicucore.tbd",

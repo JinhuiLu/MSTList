@@ -13,13 +13,13 @@
     },
     "config":{
         "add":[
-            "MOBPaySDK.framework",
-            "Channels/WeChat/libWeChatSDK.a",
-            "Channels/WeChat/WechatAuthSDK.h",
-            "Channels/WeChat/WXApi.h",
-            "Channels/WeChat/WXApiObject.h",
-            "Channels/AliPay/AlipaySDK.bundle",
-            "Channels/AliPay/AlipaySDK.framework"
+            "SDK/PaySDK/MOBPaySDK.framework",
+            "SDK/PaySDK/Channels/WeChat/libWeChatSDK.a",
+            "SDK/PaySDK/Channels/WeChat/WechatAuthSDK.h",
+            "SDK/PaySDK/Channels/WeChat/WXApi.h",
+            "SDK/PaySDK/Channels/WeChat/WXApiObject.h",
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.bundle",
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[
