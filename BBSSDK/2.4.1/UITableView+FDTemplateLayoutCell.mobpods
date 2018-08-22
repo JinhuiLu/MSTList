@@ -11,9 +11,8 @@
     },
     "config":{
         "add":[
-            "Classes/*h",
-            "Classes/*m",
-            "Classes/*{h,m}"
+            "Classes/*.h",
+            "Classes/*.m",
         ],
         "libs":[
         ],
