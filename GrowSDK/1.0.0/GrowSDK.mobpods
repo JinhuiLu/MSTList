@@ -28,7 +28,8 @@
             "names":[
                 "MOBFoundation",
                 "JiMu",
-                "CMSSDK"
+                "CMSSDK",
+                "ShareSDK"
             ]
         }
     },
