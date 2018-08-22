@@ -1,0 +1,38 @@
+{
+    "id":"100999",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_growsdk",
+            "ver":"1.0.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/GrowSDK/GrowSDK.framework",
+            "SDK/GrowSDK/GrowSDKUI.framework",
+            "SDK/Required/MSC.framework",
+            "SDK/BaiduMobAd/BaiduMobAdSDK.framework",
+            "SDK/GrowSDK/GrowSDKResource.bundle",
+            "SDK/BaiduMobAd/baidumobadsdk.bundle"
+        ],
+        "libs":[
+            "WebKit.framework",
+            "AdSupport.framework",
+            "MessageUI.framework"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation",
+                "JiMu",
+                "CMSSDK"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}
