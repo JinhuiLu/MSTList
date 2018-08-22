@@ -12,7 +12,7 @@
     "config":{
         "add":[
             "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.a",
-            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.m",
             "SDK/ShareSDK/Support/PlatformConnector/AliPayConnector.framework",
             "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.h"
         ],

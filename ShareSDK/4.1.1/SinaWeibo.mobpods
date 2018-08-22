@@ -15,7 +15,7 @@
             "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.a",
             "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/WeiboSDK.bundle",
             "SDK/ShareSDK/Support/PlatformConnector/SinaWeiboConnector.framework",
-            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.m",
             "SDK/ShareSDK/Support/PlatformSDK/SinaWeiboSDK/*.h"
         ],
         "info_plist":{

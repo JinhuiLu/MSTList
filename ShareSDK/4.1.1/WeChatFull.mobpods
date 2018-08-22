@@ -13,7 +13,7 @@
     "config":{
         "add":[
             "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.a",
-            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.m",
             "SDK/ShareSDK/Support/PlatformConnector/WechatConnector.framework",
             "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.h"
         ],

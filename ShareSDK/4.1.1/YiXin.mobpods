@@ -13,7 +13,7 @@
     "config":{
         "add":[
             "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.a",
-            "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.{h,m}",
+            "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.m",
             "SDK/ShareSDK/Support/PlatformConnector/YiXinConnector.framework",
             "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.h"
         ],
