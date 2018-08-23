@@ -21,10 +21,7 @@
         "dependency":{
             "names":[
                 "JiMu",
-                "MOBFoundation",
-                "SMSSDK",
-                "PaySDK",
-                "ShareSDK"
+                "MOBFoundation"
             ]
         }
     },

@@ -18,7 +18,10 @@
         ],
         "dependency":{
             "names":[
-                "MJRefresh"
+                "MJRefresh",
+                "SMSSDK",
+                "PaySDK",
+                "ShareSDK"
             ]
         }
     },
