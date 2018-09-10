@@ -20,7 +20,8 @@
         ],
         "dependency":{
             "names":[
-                "MOBFoundation"
+                "MOBFoundation",
+                "MOBFoundationEx"
             ]
         }
     },
