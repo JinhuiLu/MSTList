@@ -19,7 +19,7 @@
             "JavaScriptCore.framework",
             "libicucore.tbd",
             "libz.tbd",
-            "libstdc++.6.0.9.tbd",
+            "libc++.tbd",
             "libsqlite3.tbd"
         ],
         "dependency":{

@@ -12,8 +12,7 @@
     "config":{
         "add":[
             "IQKeyboardManager/**/*.h",
-            "IQKeyboardManager/**/*.m",
-            "IQKeyboardManager/Resources/IQKeyboardManager.bundle"
+            "IQKeyboardManager/**/*.m"
         ],
         "libs":[
             "Foundation.framework",

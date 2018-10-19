@@ -16,7 +16,7 @@
         ],
         "libs":[
             "libz.1.2.5.tbd",
-            "libstdc++.tbd",
+            "libc++.tbd",
             "libsqlite3.tbd"
         ],
         "dependency":{

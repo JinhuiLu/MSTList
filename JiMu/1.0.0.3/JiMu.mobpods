@@ -17,7 +17,7 @@
         ],
         "libs":[
             "libz.1.2.5.tbd",
-            "libstdc++.tbd",
+            "libc++.tbd",
             "libicucore.tbd"
         ],
         "dependency":{

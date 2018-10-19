@@ -27,7 +27,6 @@
             "JavaScriptCore.framework",
             "libz.tbd",
             "UIKit.framework",
-            "libstdc++.6.0.9.tbd",
             "libc++.tbd",
             "QuartzCore.framework",
             "OpenGLES.framework"
