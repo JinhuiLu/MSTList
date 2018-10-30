@@ -1,0 +1,30 @@
+{
+    "id":"10009",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mobAPI",
+            "ver":"2.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/MobAPI/MobAPI.framework",
+            "SDK/MobAPI/MobAPI.bundle"
+        ],
+        "libs":[
+
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

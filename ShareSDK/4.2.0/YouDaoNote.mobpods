@@ -1,0 +1,24 @@
+{
+    "id":"11022",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id":"10003",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_linksdk",
+            "ver":"2.2.6"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/MobLink/MobLink.framework"
+        ],
+        "libs":[
+            "libsqlite3.tbd",
+            "ImageIO.framework",
+            "libicucore.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

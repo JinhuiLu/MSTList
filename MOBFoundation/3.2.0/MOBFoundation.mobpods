@@ -1,0 +1,31 @@
+{
+    "id":"10000",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"MOBFoundation",
+            "ver":"3.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "MOBFoundation.framework"
+        ],
+        "libs":[
+            "libz.tbd",
+            "libc++.tbd",
+            "JavaScriptCore.framework"
+        ],
+        "dependency":{
+            "names":[
+
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

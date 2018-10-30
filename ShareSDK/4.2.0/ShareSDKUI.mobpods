@@ -1,0 +1,25 @@
+{
+    "id":"100010",
+    "install":{
+        "build":{
+            "name":"ShareSDKUI",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/Optional/ShareSDKUI.framework",
+            "SDK/ShareSDK/Support/Optional/ShareSDKUI.bundle"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

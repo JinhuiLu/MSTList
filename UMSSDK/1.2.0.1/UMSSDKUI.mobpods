@@ -1,0 +1,31 @@
+{
+    "id":"100120",
+    "install":{
+        "build":{
+            "name":"UMSSDKUI",
+            "ver":"1.2.0.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/UMSSDK/UMSSDKUI.framework",
+            "SDK/UMSSDK/UMSSDKUI.bundle"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "names":[
+                "MJRefresh",
+                "SMSSDK",
+                "PaySDK",
+                "ShareSDK"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

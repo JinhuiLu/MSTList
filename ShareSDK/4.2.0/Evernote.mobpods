@@ -1,0 +1,25 @@
+{
+    "id":"11014",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformConnector/EvernoteConnector.framework"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

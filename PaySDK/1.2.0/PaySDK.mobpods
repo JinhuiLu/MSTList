@@ -1,0 +1,47 @@
+{
+    "id":"10007",
+    "install":{
+        "build":{
+            "other_link":"-ObjC",
+            "type":"framework",
+            "name":"mob_paysdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/PaySDK/MOBPaySDK.framework",
+            "SDK/PaySDK/Channels/WeChat/libWeChatSDK.a",
+            "SDK/PaySDK/Channels/WeChat/WechatAuthSDK.h",
+            "SDK/PaySDK/Channels/WeChat/WXApi.h",
+            "SDK/PaySDK/Channels/WeChat/WXApiObject.h",
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.bundle",
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.framework",
+            "SDK/PaySDK/Channels/UnionPay/*.a",
+            "SDK/PaySDK/Channels/UnionPay/*.{h,m}"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "wechat",
+                "weixin",
+                "alipay",
+                "alipayshare"
+            ]
+        },
+        "libs":[
+            "CoreMotion.framework",
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

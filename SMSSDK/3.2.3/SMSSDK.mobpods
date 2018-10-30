@@ -1,0 +1,35 @@
+{
+    "id":"10002",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_smssdk",
+            "ver":"3.2.3"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/SMSSDK/SMS_SDK.framework"
+        ],
+        "libs":[
+            "libicucore.tbd",
+            "MessageUI.framework",
+            "JavaScriptCore.framework",
+            "SystemConfiguration.framework",
+            "CoreTelephony.framework",
+            "AdSupport.framework"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation",
+                "MOBFoundationEx"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

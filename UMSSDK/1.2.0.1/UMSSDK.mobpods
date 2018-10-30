@@ -1,10 +1,10 @@
 {
-    "id":"10014",
+    "id":"10012",
     "install":{
         "build":{
             "type":"framework",
-            "name":"JiMu",
-            "ver":"1.0.0.3"
+            "name":"mob_umssdk",
+            "ver":"1.2.0.1"
         },
         "copy_files":[
 
@@ -12,16 +12,16 @@
     },
     "config":{
         "add":[
-            "JiMu.framework",
-            "JiMu.bundle"
+            "SDK/UMSSDK/UMSSDK.framework"
         ],
         "libs":[
-            "libz.1.2.5.tbd",
-            "libc++.tbd",
+            "CoreLocation.framework",
             "libicucore.tbd"
         ],
         "dependency":{
             "names":[
+                "JiMu",
+                "MOBFoundation"
             ]
         }
     },
