@@ -1,0 +1,31 @@
+{
+    "id":"1000015",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_linksdk_pro",
+            "ver":"3.0.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/MobLinkPro/MobLinkPro.framework"
+        ],
+        "libs":[
+            "libz.1.2.5.tbd",
+            "libc++.tbd",
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}
