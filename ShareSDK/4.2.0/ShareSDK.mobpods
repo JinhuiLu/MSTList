@@ -3,7 +3,7 @@
     "install":{
         "build":{
             "name":"mob_sharesdk",
-            "ver":"4.1.4"
+            "ver":"4.2.0"
         },
         "copy_files":[
 
