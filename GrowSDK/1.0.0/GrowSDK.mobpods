@@ -17,7 +17,8 @@
             "SDK/Required/MSC.framework",
             "SDK/BaiduMobAd/BaiduMobAdSDK.framework",
             "SDK/GrowSDK/GrowSDKResource.bundle",
-            "SDK/BaiduMobAd/baidumobadsdk.bundle"
+            "SDK/BaiduMobAd/baidumobadsdk.bundle",
+            "SDK/CMSSDK/CMSSDKUI.bundle"
         ],
         "libs":[
             "WebKit.framework",
