@@ -22,7 +22,8 @@
         "libs":[
             "WebKit.framework",
             "AdSupport.framework",
-            "MessageUI.framework"
+            "MessageUI.framework",
+            "SafariServices.framework"
         ],
         "dependency":{
             "names":[
