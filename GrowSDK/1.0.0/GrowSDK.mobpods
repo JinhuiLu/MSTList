@@ -29,7 +29,7 @@
         "dependency":{
             "names":[
                 "MOBFoundation",
-                "JiMu",
+                "JiMu"
             ]
         }
     },
