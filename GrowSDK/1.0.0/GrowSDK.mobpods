@@ -30,7 +30,9 @@
                 "MOBFoundation",
                 "JiMu",
                 "CMSSDK",
-                "ShareSDK"
+                "ShareSDK",
+                "MJRefresh",
+                "Masonry"
             ]
         }
     },
