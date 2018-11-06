@@ -16,7 +16,6 @@
             "SDK/PaySDK/Channels/UnionPay/*.m"
         ],
         "libs":[
-            "sqlite3.tbd"
         ],
         "dependency":{
             "name" : []
