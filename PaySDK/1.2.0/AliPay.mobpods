@@ -1,0 +1,33 @@
+{
+    "id":"170002",
+    "install":{
+        "build":{
+            "other_link":"-ObjC",
+            "name":"mob_paysdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.framework",
+            "SDK/PaySDK/Channels/AliPay/AlipaySDK.bundle"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "alipay"
+            ]
+        },
+        "libs":[
+            "CoreMotion.framework"
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

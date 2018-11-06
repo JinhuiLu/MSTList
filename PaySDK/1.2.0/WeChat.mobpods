@@ -1,0 +1,35 @@
+{
+    "id":"170001",
+    "install":{
+        "build":{
+            "other_link":"-ObjC",
+            "name":"mob_paysdk",
+            "ver":"1.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/PaySDK/Channels/WeChat/*.a",
+            "SDK/PaySDK/Channels/WeChat/*.h",
+            "SDK/PaySDK/Channels/WeChat/*.m"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "wechat",
+                "weixin"
+            ]
+        },
+        "libs":[
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

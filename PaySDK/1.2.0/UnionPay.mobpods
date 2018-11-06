@@ -1,8 +1,7 @@
 {
-    "id":"10007",
+    "id":"170003",
     "install":{
         "build":{
-            "type":"framework",
             "name":"mob_paysdk",
             "ver":"1.2.0"
         },
@@ -12,12 +11,15 @@
     },
     "config":{
         "add":[
-            "SDK/PaySDK/MOBPaySDK.framework"
+            "SDK/PaySDK/Channels/UnionPay/*.a",
+            "SDK/PaySDK/Channels/UnionPay/*.h",
+            "SDK/PaySDK/Channels/UnionPay/*.m"
+        ],
+        "libs":[
+            "sqlite3.tbd"
         ],
         "dependency":{
-            "names":[
-                "MOBFoundation"
-            ]
+            "name" : []
         }
     },
     "user_config":{
