@@ -12,7 +12,8 @@
     },
     "config":{
         "add":[
-            "SDK/MobPush/MobPush.framework"
+            "SDK/MobPush/MobPush.framework",
+            "SDK/MobPush/MobPushServiceExtension.framework"
         ],
         "libs":[
 
