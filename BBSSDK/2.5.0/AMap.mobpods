@@ -1,0 +1,40 @@
+{
+    "id":"10800",
+    "install":{
+        "build":{
+            "name":"AMap",
+            "ver":"5.7.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/BBSSDK/Common/3rdPart/AMap/AMapFoundationKit.framework",
+            "SDK/BBSSDK/Common/3rdPart/AMap/AMapSearchKit.framework",
+            "SDK/BBSSDK/Common/3rdPart/AMap/MAMapKit.framework"
+        ],
+        "libs":[
+            "GLKit.framework",
+            "Foundation.framework",
+            "CoreGraphics.framework",
+            "CoreLocation.framework",
+            "CoreTelephony.framework",
+            "SystemConfiguration.framework",
+            "Security.framework",
+            "AdSupport.framework",
+            "JavaScriptCore.framework",
+            "libz.tbd",
+            "UIKit.framework",
+            "libc++.tbd",
+            "QuartzCore.framework",
+            "OpenGLES.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

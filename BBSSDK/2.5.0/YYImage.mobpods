@@ -1,0 +1,33 @@
+{
+    "id":"10700",
+    "install":{
+        "build":{
+            "name":"YYImage",
+            "ver":"1.0.4"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "YYImage/*.h",
+            "YYImage/*.m"
+        ],
+        "libs":[
+            "libz.tbd",
+            "UIKit.framework",
+            "CoreFoundation.framework",
+            "QuartzCore.framework",
+            "AssetsLibrary.framework",
+            "ImageIO.framework",
+            "Accelerate.framework",
+            "MobileCoreServices.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

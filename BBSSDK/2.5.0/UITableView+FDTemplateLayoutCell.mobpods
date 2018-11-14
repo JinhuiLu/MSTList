@@ -1,0 +1,25 @@
+{
+    "id":"10300",
+    "install":{
+        "build":{
+            "name":"UITableView-FDTemplateLayoutCell",
+            "ver":"1.6"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Classes/*.h",
+            "Classes/*.m"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

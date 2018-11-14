@@ -1,0 +1,29 @@
+{
+    "id":"10008",
+    "install":{
+        "build":{
+            "type":"framework",
+            "name":"mob_bbssdk",
+            "ver":"2.5.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/BBSSDK/BBSSDK.framework"
+        ],
+        "libs":[
+
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

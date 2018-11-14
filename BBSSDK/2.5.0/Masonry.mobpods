@@ -1,0 +1,27 @@
+{
+    "id":"10400",
+    "install":{
+        "build":{
+            "name":"Masonry",
+            "ver":"1.1.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "Masonry/*.h",
+            "Masonry/*.m"
+        ],
+        "libs":[
+            "Foundation.framework",
+            "UIKit.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}

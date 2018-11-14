@@ -1,0 +1,27 @@
+{
+    "id":"10600",
+    "install":{
+        "build":{
+            "name":"SVProgressHUD",
+            "ver":"2.2.5"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SVProgressHUD/*.h",
+            "SVProgressHUD/*.m",
+            "SVProgressHUD/SVProgressHUD.bundle"
+        ],
+        "libs":[
+            "QuartzCore.framework"
+        ],
+        "dependency":{
+        }
+    },
+    "user_config":{
+
+    }
+}
