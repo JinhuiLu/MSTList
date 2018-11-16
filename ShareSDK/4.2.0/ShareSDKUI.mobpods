@@ -12,7 +12,8 @@
     "config":{
         "add":[
             "SDK/ShareSDK/Support/Optional/ShareSDKUI.framework",
-            "SDK/ShareSDK/Support/Optional/ShareSDKUI.bundle"
+            "SDK/ShareSDK/Support/Optional/ShareSDKUI.bundle",
+            "SDK/ShareSDK/Support/Optional/ShareSDKExtension.framework"
         ],
         "libs":[
         ],
