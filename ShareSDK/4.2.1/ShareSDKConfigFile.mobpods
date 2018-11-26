@@ -1,9 +1,9 @@
 {
-    "id":"11037",
+    "id":"1100100",
     "install":{
         "build":{
             "name":"mob_sharesdk",
-            "ver":"4.1.1"
+            "ver":"4.2.1"
         },
         "copy_files":[
 
