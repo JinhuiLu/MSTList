@@ -11,7 +11,8 @@
     },
     "config":{
         "add":[
-            "TTTAttributedLabel"
+            "TTTAttributedLabel/*.h",
+            "TTTAttributedLabel/*.m"
         ],
         "libs":[
             "UIKit.framework",
