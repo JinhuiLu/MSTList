@@ -1,0 +1,32 @@
+{
+    "id":"11005",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformConnector/FacebookConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "fbauth2",
+                "fbauth"
+            ]
+        },
+        "libs":[
+
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id":"10001",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.2.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/ShareSDK.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDKConnector.framework",
+            "SDK/ShareSDK/Support/Required/ShareSDK.bundle"
+        ],
+        "libs":[
+        ],
+        "dependency":{
+            "names":[
+                "MOBFoundation"
+            ]
+        }
+    },
+    "user_config":{
+
+    }
+}

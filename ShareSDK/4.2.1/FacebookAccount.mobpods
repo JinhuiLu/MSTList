@@ -1,0 +1,29 @@
+{
+    "id":"11039",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.2.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/FacebookAccountSDK/AccountKit.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/FacebookAccountConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/FacebookAccountSDK/AccountKitStrings.bundle"
+        ],
+        "info_plist":{ 
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

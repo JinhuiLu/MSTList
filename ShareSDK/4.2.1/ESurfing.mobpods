@@ -1,0 +1,29 @@
+{
+    "id":"11038",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.2.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/ESurfingSDK/EAccountSDKArchive.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/ESurfingConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/ESurfingSDK/HTMLResource.bundle"
+        ],
+        "info_plist":{ 
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

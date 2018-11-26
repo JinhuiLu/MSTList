@@ -1,0 +1,27 @@
+{
+    "id":"110061",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.2.0"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformConnector/RedditConnector.framework"
+        ],
+ 
+        "libs":[
+
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

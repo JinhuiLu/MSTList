@@ -1,0 +1,34 @@
+{
+    "id":"11033",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.a",
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.m",
+            "SDK/ShareSDK/Support/PlatformConnector/AliPayConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.h"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "alipay",
+                "alipayshare"
+            ]
+        },
+        "libs":[
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

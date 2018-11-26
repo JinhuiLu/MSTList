@@ -1,0 +1,36 @@
+{
+    "id":"11003",
+    "install":{
+        "build":{
+            "other_link":"-ObjC",
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.a",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.m",
+            "SDK/ShareSDK/Support/PlatformConnector/WechatConnector.framework",
+            "SDK/ShareSDK/Support/PlatformSDK/WeChatSDKFull/*.h"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "wechat",
+                "weixin"
+            ]
+        },
+        "libs":[
+            "libsqlite3.tbd"
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id":"11036",
+    "install":{
+        "build":{
+            "name":"mob_sharesdk",
+            "ver":"4.1.1"
+        },
+        "copy_files":[
+
+        ]
+    },
+    "config":{
+        "add":[
+            "SDK/ShareSDK/Support/PlatformSDK/MPShareSDK/MPShareSDK.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/MeiPaiConnector.framework"
+        ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "mtmv",
+                "mpsharesdk10",
+                "mpsharesdk11"
+            ]
+        },
+        "libs":[
+            "AssetsLibrary.framework"
+        ],
+        "dependency":{
+            "name" : []
+        }
+    },
+    "user_config":{
+
+    }
+}
