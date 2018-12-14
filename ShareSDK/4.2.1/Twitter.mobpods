@@ -13,6 +13,11 @@
         "add":[
             "SDK/ShareSDK/Support/PlatformConnector/TwitterConnector.framework"
         ],
+        "info_plist":{
+            "LSApplicationQueriesSchemes":[
+                "twitterauth"
+            ]
+        },
         "libs":[
         ],
         "dependency":{

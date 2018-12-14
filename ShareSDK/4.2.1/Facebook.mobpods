@@ -16,7 +16,8 @@
         "info_plist":{
             "LSApplicationQueriesSchemes":[
                 "fbauth2",
-                "fbauth"
+                "fbauth",
+                "fbapi20130214"
             ]
         },
         "libs":[

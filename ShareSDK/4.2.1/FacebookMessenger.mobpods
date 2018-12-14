@@ -15,7 +15,8 @@
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[
-                "fb-messenger"
+                "fb-messenger",
+                "fb-messenger-platform-20150714"
             ]
         },
         "libs":[
