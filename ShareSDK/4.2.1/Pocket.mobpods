@@ -11,6 +11,7 @@
     },
     "config":{
         "add":[
+        "SDK/ShareSDK/Support/PlatformConnector/PocketConnector.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[

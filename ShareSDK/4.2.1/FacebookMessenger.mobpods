@@ -11,6 +11,7 @@
     },
     "config":{
         "add":[
+            "SDK/ShareSDK/Support/PlatformConnector/FacebookMessengerConnector.framework"
         ],
         "info_plist":{
             "LSApplicationQueriesSchemes":[
