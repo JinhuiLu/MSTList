@@ -13,7 +13,7 @@
         "add":[
             "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.a",
             "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.m",
-            "SDK/ShareSDK/Support/PlatformConnector/AliPayConnector.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/AliSocialConnector.framework",
             "SDK/ShareSDK/Support/PlatformSDK/APSocialSDK/*.h"
         ],
         "info_plist":{

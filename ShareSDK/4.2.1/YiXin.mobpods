@@ -14,7 +14,7 @@
         "add":[
             "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.a",
             "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.m",
-            "SDK/ShareSDK/Support/PlatformConnector/YiXinConnector.framework",
+            "SDK/ShareSDK/Support/PlatformConnector/EasyChatConnector.framework",
             "SDK/ShareSDK/Support/PlatformSDK/YiXinSDK/*.h"
         ],
         "info_plist":{
